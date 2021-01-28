@@ -1,0 +1,8 @@
+.app {
+    background-repeat: no-repeat;
+    background-image: url(imagens/brasil.jpg);
+    
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
